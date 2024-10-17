@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <serenity.version>2.2.0</serenity.version>
-        <groovyVersion>2.4.7</groovyVersion>
+        <groovyVersion>2.4.21</groovyVersion>
         <maven.surefire.plugin.version>2.19.1</maven.surefire.plugin.version>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -61,7 +61,7 @@
                     <dependency>
                         <groupId>org.codehaus.groovy</groupId>
                         <artifactId>groovy-all</artifactId>
-                        <version>2.4.4</version>
+                        <version>2.4.21</version>
                         <scope>runtime</scope>
                     </dependency>
                 </dependencies>
